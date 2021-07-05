@@ -1,0 +1,136 @@
+div.jumbotron.carousel-hero {
+  /*background-color: black;*/
+  color: #ffffff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-bottom: 0;
+}
+
+@media (max-width: 360px) {
+  div.jumbotron.carousel-hero {
+    position: relative;
+    background-position: center;
+    /*padding-top: 130px!important;*/
+    margin-bottom: 0;
+    font-size: 90%!important;
+  }
+}
+
+@media (max-width: 500px) {
+  div.jumbotron.carousel-hero h1 {
+    font-size: 200%;
+  }
+}
+
+div.jumbotron.hero-nature {
+  background-image: url('../../assets/img/carousel/1.jpg');
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+  border-radius: 0px;
+}
+
+div.jumbotron.hero-photography {
+  background-image: url('../../assets/img/carousel/NGO-Feature.jpg');
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+  border-radius: 0px;
+}
+
+div.jumbotron.hero-technology {
+  background-image: url('../../assets/img/carousel/ngo-img1.jpg');
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+  border-radius: 0px;
+}
+
+div.jumbotron .color-overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: black;
+  opacity: 0.4;
+  z-index: -1;
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  color: #ffffff;
+  font-size: 250%;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 10px 15px;
+  color: #fff;
+}
+
+.plat {
+  border-radius: 0px;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 0 #048f83!important;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #016090;
+  /*border-color: #016090;*/
+}
+
+.btn.btn-primary {
+  background-color: #048f83!important;
+  /*border-color: #048f83!important;*/
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem rgba(0,123,255,.5);
+}
+
+* {
+  /*box-sizing: inherit;*/
+}
+
+*:before, *:after {
+  /*box-sizing: inherit;*/
+}
+
+#contactForm .form-row .col-12 .form-row .col-sm-6 a span:hover {
+  text-decoration: underline;
+  color: #0056b3!important;
+}
+
+span {
+  font-style: inherit;
+  font-weight: inherit;
+  text-decoration: none!important;
+}
+
+#btn-donate:hover {
+  background-color: rgb(59,153,224)!important;
+}
+
+@media (max-width: 500px) {
+  .clean-block.dark .block-heading p {
+    font-size: 60%;
+  }
+}
+
+.clean-block .container .row .col-md-6 .img-thumbnail {
+  border: none;
+  height: 330px;
+}
+
+#carousel #carousel-1 div a > i.fa {
+  color: white;
+}
+

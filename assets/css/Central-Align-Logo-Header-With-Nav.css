@@ -1,0 +1,411 @@
+h1 {
+  color: #FFF;
+  font-family: Lato, sans-serif;
+  text-transform: uppercase;
+  margin: 0;
+  margin-bottom: 25px;
+  font-size: 56px;
+}
+
+p {
+  color: #000000;
+  font-family: Lato, sans-serif;
+  font-weight: 100;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+@media (max-width:767px) {
+  h1 {
+    font-size: 30px;
+  }
+}
+
+@media (max-width:767px) {
+  p {
+    font-size: 14px;
+    /*margin: 0px 25px;*/
+  }
+}
+
+.header-cell .fa.fa-truck {
+  margin-right: 15px;
+}
+
+.top-header-container {
+  display: table;
+  width: 100%;
+  height: 600px;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.header-cell {
+  display: table-cell;
+  width: 100%;
+  height: 100%;
+  vertical-align: middle;
+}
+
+#our-work-navlink .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/our%20work/63527927973.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+.clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/events/April29-2019-7-48amhappy-faces-of-children.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#our-work-gender .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/our%20work/635805961494616606-india21.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#our-work-disaster .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/our%20work/uZqK1mTgMHx0Zd91cjSAlMBRQv9y0HzzQon1MjPM-14294-1542434506.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#our-work-building .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/our%20work/06396d83_0847_496b_b3c2_c69c3c99b29e.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#our-work-advocacy .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/our%20work/Ramkumar%20Radhakrishnan,%20Wikimedia-1569929663.jpeg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#our-work-inclusive .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/our%20work/slider1.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#payment .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/payment/Back-to-school-India-main.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#our-work-livelihood .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/our%20work/Cover-Story-1024x768.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#our-work-healthcare .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/our%20work/BWB1BN_1600_500.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#our-work-education .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/our%20work/School-Education-123456.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#events-support-the-heroes .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/events/farmers-759.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#events-sports-meet .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/events/d.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#events-lockdown .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/events/DSC_0112.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#BGUS-Tree-plantations .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/our%20work/shutterstock_567451750.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#BGUS-Food-donation .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/our%20work/DSC01582-800x533.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#BGUS-Empowering-the-youth .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/our%20work/children-428909_1280.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#BGUS-Emergencies .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/our%20work/COVID-19.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#BGUS-Child-In-Need-Institute .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/our%20work/5bd49e2d6cccc12f22162d55_1540660781967.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#BGUS-Blood-donation .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/our%20work/blood-donation.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+#contact-us .clean-block .container-fluid.main-header-text {
+  padding: 0;
+  margin: 0;
+  min-height: 400px;
+  display: block;
+  position: relative;
+  background-image: url("../../assets/img/2d3b7a_826f3ae981784101b4fc2dc4e0df905b.jpg");
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+.nav-main-wrapper {
+  text-align: center;
+  box-shadow: none;
+  border: none;
+  border-radius: 0;
+  margin-bottom: 0;
+  background: rgba(0,0,0,0.85);
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.nav-main-wrapper .navbar-brand {
+  color: #FFF;
+  box-shadow: none;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+.nav-main-wrapper .navbar-brand:hover {
+  color: #FFF;
+  box-shadow: none;
+  opacity: 0.8;
+}
+
+.nav-main-wrapper ul {
+  float: none;
+}
+
+.nav-main-wrapper li {
+  float: none;
+  display: inline-block;
+}
+
+.nav-main-wrapper .navbar-nav > li > a {
+  text-shadow: none;
+  background: none;
+  text-transform: uppercase;
+  font-size: 12px;
+  color: #9c9c9c;
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover, .nav-main-wrapper .navbar-nav > .active > a, .nav-main-wrapper .navbar-nav > .open > a, .nav-main-wrapper .navbar-nav > .open > a:hover, .nav-main-wrapper .navbar-nav > .active > a:hover {
+  color: #fff;
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+
+.nav-main-wrapper .navbar-nav > .active > a:after, .nav-main-wrapper .navbar-nav > .open > a:after {
+  opacity: 1;
+  bottom: 10px;
+}
+
+.nav-main-wrapper li a:hover, .nav-main-wrapper li a:active, .nav-main-wrapper li.active, .nav-main-wrapper li a:focus {
+  background-color: transparent;
+  background-image: none;
+  -webkit-transition: all 320ms ease;
+  -moz-transition: all 320ms ease;
+  -ms-transition: all 320ms ease;
+  -o-transition: all 320ms ease;
+  transition: all 320ms ease;
+}
+
+.nav-main-wrapper li a:after {
+  content: '';
+  position: absolute;
+  display: block;
+  left: 15px;
+  right: 15px;
+  bottom: 0px;
+  height: 2px;
+  background: #FFF;
+  opacity: 0;
+}
+
+.nav-main-wrapper .navbar-toggle {
+  border: none;
+  color: #FFF;
+}
+
+.nav-main-wrapper .navbar-toggle .icon-bar {
+  opacity: 1;
+  background-color: #FFF;
+}
+
+.nav-main-wrapper .navbar-toggle:hover .icon-bar {
+  opacity: 0.8;
+}
+
+.nav-main-wrapper .navbar-toggle:focus, .nav-main-wrapper .navbar-toggle:hover {
+  background-color: transparent;
+}
+
+@media (max-width:767px) {
+  .nav-main-wrapper li a:after {
+    opacity: 0;
+    display: none;
+  }
+}
+
+@media (max-width:767px) {
+  .nav-main-wrapper li {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+

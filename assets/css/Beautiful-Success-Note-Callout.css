@@ -1,0 +1,31 @@
+.beautiful.bs-callout {
+  padding: 15px 30px 15px 15px;
+  margin: 50px 0px 0px 0px;
+  border-left-style: solid;
+  border-left-width: 5px;
+  border-radius: 0px;
+}
+
+.beautiful.bs-callout p:last-child {
+  font-size: 13px;
+  margin: 0px;
+}
+
+.beautiful.bs-callout-success {
+  background-color: #c0f1cb;
+  border-left-color: #72da58;
+  color: #000;
+}
+
+#fail {
+  background-color: #f1c0c0;
+  border-left-color: #da5858;
+  color: #000;
+}
+
+.beautiful h4 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 0px;
+}
+
